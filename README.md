@@ -94,7 +94,4 @@ Para produção, recomenda-se:
 - Testes com outros algoritmos de ensemble (XGBoost, LightGBM).  
 
 Assim, a combinação de **classificação supervisionada** e **clustering exploratório** amplia o valor da solução, oferecendo previsões precisas e insights estratégicos.
-```
-
----
 
